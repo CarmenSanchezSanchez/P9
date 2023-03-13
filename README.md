@@ -1,2 +1,2 @@
 # P9
-JavaScriptr-Gallery
+JavaScript-Gallery
